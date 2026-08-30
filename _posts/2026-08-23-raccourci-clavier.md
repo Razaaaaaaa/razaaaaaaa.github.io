@@ -18,7 +18,6 @@ Quelques années plus tard, chez Apple, Tesler et son équipe reprennent et perf
 Le choix des touches n’est d’ailleurs pas entièrement arbitraire. Le C fait naturellement référence à Copy. Le X est associé à Cut, tandis que le V a été choisi en partie pour sa forme, qui rappelait un symbole utilisé dans certains systèmes d’édition de texte pour indiquer un emplacement d’insertion. Les touches C, X et V ont également l’avantage d’être regroupées sur le clavier, ce qui facilite leur utilisation avec une seule main.
 
 Ces conventions ont ensuite largement dépassé l'univers Apple. Microsoft les a notamment reprises dans ses propres logiciels et systèmes, en remplaçant la touche ⌘ par Ctrl. C’est ainsi que des combinaisons comme Ctrl+C, Ctrl+X et Ctrl+V sont progressivement devenues des conventions presque universelles de l’informatique personnelle.
-Qu'est-ce qu'un raccourci clavier ?
 
 Le manuel du premier Macintosh donne une définition particulièrement intéressante des raccourcis clavier :
 
@@ -153,4 +152,6 @@ C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisat
 - [Les origines de CTRL+C, CTRL+V, CTRL+Z expliquées](https://www.journaldufreenaute.fr/les-origines-de-ctrlc-ctrlv-ctrlx-et-ctrlz-expliquees/)
 - [Décès de Larry Tesler, l'homme qui n'aimait pas les modes](www.macg.co/ailleurs/2020/02/deces-de-larry-tesler-lhomme-qui-naimait-pas-les-modes-112053)
 - [Histoire de raccourcis clavier apple partie 1 le trio couper copier coller](blog.marcosx.net/2020/04/15/Histoire-de-raccourcis-clavier-apple-partie1-le-trio-couper-copier-coller/)
-
+- [Manuel du Macintosh de 1984](https://archive.org/details/1984macintoshmanual/page/102/mode/2up)
+- [Microsoft Word Quick Reference](https://archive.org/details/MicrosoftWord1.00forMacintosh_1985_Manual/Quick%20Reference/mode/2up)
+- [Raccourcis clavier Word Moderne](https://support.microsoft.com/fr-FR/accessibility/word/keyboard-shortcuts-in-word#bkmk_ribbonwin)

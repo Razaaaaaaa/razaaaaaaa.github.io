@@ -8,7 +8,7 @@ categories: quotidien grand-public
 Tout le monde connaît les principaux raccourcis clavier de son système : Ctrl + C pour copier, Ctrl + V pour coller… Mais ce n’est que la partie émergée de l’iceberg. La plupart des logiciels grand public proposent des centaines de raccourcis : Blender, Adobe Photoshop, Excel, et ne parlons pas des logiciels plus niche. Alors, existe-t-il une méthode efficace pour pleinement mémoriser ses raccourcis clavier ?
 
 ## Un peu d'histoire et de théorie
-[Pas le temps pour la théorie ? Passons directement aux astuces](#pratique)                                   
+[Pas le temps pour la théorie ? Passons directement aux astuces](#mes-astuces)                                   
 
 
 S’il fallait retenir un nom dans l’histoire du copier-coller et des raccourcis clavier sur interface graphique, ce serait sans doute Larry Tesler. Dans les années 1970, alors qu’il travaille chez Xerox PARC, Tesler participe à des recherches sur le Xerox Alto, qui contribuent à poser les bases des interactions modernes avec le texte : sélection, déplacement, insertion et manipulation de contenu à l’aide de commandes clavier.

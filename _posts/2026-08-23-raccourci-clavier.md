@@ -11,11 +11,11 @@ Tout le monde connaît les principaux raccourcis clavier de son système : Ctrl 
 [Pas le temps pour la théorie ? Passons directement aux astuces](#mes-astuces)                                   
 
 
-S’il fallait retenir un nom dans l’histoire du copier-coller et des raccourcis clavier sur interface graphique, ce serait sans doute Larry Tesler. Dans les années 1970, alors qu’il travaille chez Xerox PARC, Tesler participe à des recherches sur le Xerox Alto, qui contribuent à poser les bases des interactions modernes avec le texte : sélection, déplacement, insertion et manipulation de contenu à l’aide de commandes clavier.
+S’il fallait retenir un nom dans l’histoire des raccourcis clavier, ce serait sans doute Larry Tesler. Dans les années 1970, alors qu’il travaille chez Xerox PARC, Tesler participe à des recherches sur le Xerox Alto, qui contribuent à poser les bases des interactions modernes avec le texte : sélection, déplacement, insertion et manipulation de contenu. 
 
 Quelques années plus tard, chez Apple, Tesler et son équipe reprennent et perfectionnent ces principes pour les interfaces du Lisa, puis du Macintosh. C’est notamment à cette période que sont définies et popularisées les combinaisons ⌘C, ⌘X, ⌘V et ⌘Z que nous connaissons encore aujourd’hui.
 
-Le choix des touches n’est d’ailleurs pas entièrement arbitraire. Le C fait naturellement référence à Copy. Le X est associé à Cut, tandis que le V a été choisi en partie pour sa forme, qui rappelait un symbole utilisé dans certains systèmes d’édition de texte pour indiquer un emplacement d’insertion. Les touches C, X et V ont également l’avantage d’être regroupées sur le clavier, ce qui facilite leur utilisation avec une seule main.
+Le choix des touches n’est d’ailleurs pas entièrement arbitraire. Le C fait naturellement référence à Copy. Le X est associé à Cut, tandis que le V a été choisi en partie pour sa forme, qui évoque l’action de déposer ou d’insérer quelque chose. Il rappelle aussi le caret "^" , symbole utilisé dans les anciens systèmes d’édition. Les touches C, X et V ont également l’avantage d’être regroupées sur le clavier, ce qui facilite leur utilisation avec une seule main.
 
 Ces conventions ont ensuite largement dépassé l'univers Apple. Microsoft les a notamment reprises dans ses propres logiciels et systèmes, en remplaçant la touche ⌘ par Ctrl. C’est ainsi que des combinaisons comme Ctrl+C, Ctrl+X et Ctrl+V sont progressivement devenues des conventions presque universelles de l’informatique personnelle.
 
@@ -32,7 +32,7 @@ Cette distinction peut sembler anecdotique, mais elle permet de mieux comprendre
 
 À l'époque, les logiciels proposaient pourtant beaucoup moins de raccourcis qu'aujourd'hui. Microsoft Word 1.0 pour Macintosh comptait ainsi 44 raccourcis clavier, ce qui en faisait déjà l'un des logiciels Macintosh les plus riches dans ce domaine.
 
-Les logiciels modernes sont d'une tout autre ampleur. Une liste de référence récente de Microsoft recense aujourd'hui +200 raccourcis pour Word.
+Les logiciels modernes sont d'une tout autre ampleur. Une liste de référence récente de Microsoft recense aujourd'hui +200 raccourcis pour Microsoft Word.
 
 Le véritable problème est plutôt de savoir lesquels apprendre, comment les découvrir et surtout comment faire en sorte qu'ils deviennent des automatismes.
 
@@ -155,3 +155,4 @@ C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisat
 - [Manuel du Macintosh de 1984](https://archive.org/details/1984macintoshmanual/page/102/mode/2up)
 - [Microsoft Word Quick Reference](https://archive.org/details/MicrosoftWord1.00forMacintosh_1985_Manual/Quick%20Reference/mode/2up)
 - [Raccourcis clavier Word Moderne](https://support.microsoft.com/fr-FR/accessibility/word/keyboard-shortcuts-in-word#bkmk_ribbonwin)
+- [Démonstration du couper, copier et coller Gypsy](www.youtube.com/watch?v=Dhmz68CII9Y)

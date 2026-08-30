@@ -1,0 +1,125 @@
+---
+layout: default
+title: README.md
+paginate_path: "/blog/page:num/"
+---
+
+<div class="d-flex justify-content-center">
+<img src="/assets/images/title.png">
+</div>
+
+
+<span class="text-success">raza@raza ~$ </span> glow README.MD
+
+<h1 class="m-3">
+Pourquoi ce blog ?
+</h1>
+
+<div class="d-flex justify-content-between wrap ps-5 pe-5">
+  <div>
+<p>Au cours de mes études, j’ai développé une véritable passion pour la sécurité informatique, et plus particulièrement pour la rétro-ingénierie.</p> <p>En travaillant sur différents <em>crackmes</em>, j’ai parfois été confronté à une certaine lenteur dans ma manière de résoudre les problèmes. Je me suis alors rendu compte que ces difficultés ne venaient pas toujours de la complexité des problèmes eux-mêmes, mais aussi de ma maîtrise et de la compréhension parfois limitée des outils à ma disposition.</p> <p>Cette expérience m’a progressivement amené à une réflexion plus générale : <b>utiliser régulièrement un outil ne signifie pas nécessairement savoir en tirer pleinement parti</b>. Il existe souvent de nombreuses fonctionnalités, techniques et méthodes permettant d’en exploiter tout le potentiel, mais que l’on ne prend pas toujours le temps de découvrir.</p> <p>Ce site est né de cette réflexion. Il constitue une exploration des différentes techniques, astuces et méthodes permettant de mieux comprendre et exploiter nos outils et d’améliorer notre productivité au quotidien.</p> <p>L’objectif n’est pas simplement d’accumuler des connaissances, mais de développer de meilleures habitudes de travail, d’apprendre à utiliser les bons outils au bon moment et, surtout, de chercher constamment des moyens plus efficaces de résoudre les problèmes auxquels nous sommes confrontés.</p>  </div>
+</div>
+
+<div class="m-3">
+  <h1 class="m-0">Mes derniers articles</h1>
+</div>
+
+
+
+<div id="astuces" class="d-flex flex-column gap-4 ps-5 pe-5">
+
+  {% for post in site.posts limit:5 %}
+    <a href="{{ post.url | relative_url }}" class="text-decoration-none text-white">
+      <div class="card bg-black text-white">
+        <div class="card-header">
+          <div class="d-flex justify-content-between align-items-center gap-3">
+
+            <div>
+              <div class="fw-semibold">
+                {{ post.title }}
+              </div>
+
+              <div class="text-secondary small">
+                {{ post.date | date: "%Y-%m-%d" }}
+              </div>
+            </div>
+
+            {% if post.categories %}
+              <div class="d-flex gap-2">
+                {% for category in post.categories %}
+                  <span class="bg-white text-black p-1">
+                    {{ category }}
+                  </span>
+                {% endfor %}
+              </div>
+            {% endif %}
+
+          </div>
+        </div>
+
+        <div class="card-body">
+
+          {% if post.excerpt %}
+            <p class="card-text">
+              {{ post.excerpt | strip_html | truncatewords: 100 }}
+            </p>
+          {% endif %}
+
+        </div>
+
+      </div>
+    </a>
+  {% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<nav aria-label="Pagination">
+  <ul class="pagination justify-content-center gap-2">
+
+      <li class="page-item">
+        <a class="page-link rounded-0 bg-black   text-white"
+           href="{{ paginator.previous_page_path | relative_url }}#astuces">
+          &laquo;
+        </a>
+      </li>
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <li class="page-item">
+          <span class="page-link rounded-0  bg-black  text-primary border-primary">
+            {{ page }}
+          </span>
+        </li>
+
+      {% elsif page == 1 %}
+        <li class="page-item">
+          <a class="page-link rounded-0  bg-black text-white border-white"
+             href="{{ '/' | relative_url }}#astuces">
+            {{ page }}
+          </a>
+        </li>
+
+      {% else %}
+        <li class="page-item">
+          <a class="page-link rounded-0 bg-black text-white border-white"
+             href="{{ site.paginate_path | relative_url | replace: ':num', page }}#astuces">
+            {{ page }}
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+
+ 
+      <li class="page-item">
+        <a class="page-link rounded-0 bg-black text-white border-white"
+           href="{{ paginator.next_page_path | relative_url }}#astuces">
+          &raquo;
+        </a>
+      </li>
+
+
+  </ul>
+</nav>
+{% endif %}
+
+
+

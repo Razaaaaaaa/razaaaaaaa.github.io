@@ -101,7 +101,7 @@ Lorsqu’un utilisateur découvre une nouvelle fonctionnalité ou une nouvelle a
 
 Lorsqu’on utilise un logiciel, on n’exploite généralement qu’une partie de ses fonctionnalités. Certaines sont utilisées très fréquemment, tandis que d’autres le sont beaucoup moins.
 
-C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisation de certaines extensions plutôt que d’autres, en fonction de leur fréquence d’utilisation et de leur importance dans les usages quotidiens.
+C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisation de certains raccourcis plutôt que d’autres, en fonction de leur fréquence d’utilisation et de leur importance dans les usages quotidiens.
 
 ### 4. S'entrainer spécifiquement sur des logiciels grâce a des plateforme (Photoshop, VS Code, Excel etc) ★★
 

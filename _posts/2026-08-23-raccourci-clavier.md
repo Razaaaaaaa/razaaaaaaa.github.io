@@ -40,34 +40,32 @@ Le véritable problème est plutôt de savoir lesquels apprendre, comment les d�
 
 Pour observer des utilisateurs expérimentés à l’œuvre, rien de mieux que de se tourner vers les milieux compétitifs, comme la programmation compétitive ou les compétitions Excel. On remarque rapidement que ces utilisateurs maîtrisent les raccourcis clavier de manière presque instinctive : ils savent à l’avance quelle action ils souhaitent effectuer et utilisent directement le raccourci correspondant, sans avoir à y réfléchir.
 
-<div class="d-flex justify-content-between">
-<div>
-<iframe
-  class="m-5"
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/lgPxucqRazM"
-  title="Utilisateur expérimenté "
-  frameborder="5"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
-</div>
+<div class="container">
+  <div class="row justify-content-center g-4 p-3">
 
-<div>
-<iframe
-  class="m-5"
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/KLJfnzFy3P0"
-  title="Utilisateur expérimenté "
-  frameborder="5"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  allowfullscreen>
-</iframe>
-</div>
+    <div class="col-12 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe
+          src="https://www.youtube.com/embed/lgPxucqRazM"
+          title="Utilisateur expérimenté"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
 
+    <div class="col-12 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe
+          src="https://www.youtube.com/embed/KLJfnzFy3P0"
+          title="Utilisateur expérimenté"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
 
+  </div>
 </div>
 
 

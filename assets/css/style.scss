@@ -1,6 +1,27 @@
 ---
 ---
 
+
+:root {
+  --bs-body-bg: #121212;
+  --bs-body-color: #fff;
+
+  --bs-primary: #fff;
+  --bs-secondary: #8b8499;
+  --bs-success: #55d187;
+  --bs-info: #5bc0eb;
+  --bs-warning: #f0c674;
+  --bs-danger: #ff6b6b;
+  --bs-light: #f8f9fa;
+  --bs-dark: #171421;
+
+  --bs-link-color: #fff;
+  --bs-link-hover-color: #c9c3d6;
+
+  --bs-border-color: ##171421;
+}
+
+
 @font-face {
   font-family: "Terminus";
   src: url("{{ '/assets/fonts/TerminusTTF-Bold-4.49.3.ttf' | relative_url }}") format("truetype");
@@ -11,35 +32,25 @@
 
 body {
   margin: 0;
-  background-color: #000;
-  color: #fff;
+  background-color: --bs-body-bg;
+  color: --bs-body-color;
   font-family: "Terminus", monospace;
-
   line-height: 1.2;
- 
+   
 }
 
 
-html {
-  font-size: 14px;
-}
-
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-@media (min-width: 1200px) {
-  html {
-    font-size: 18px;
-  }
-}
 
 
 @media (min-width: 992px) {
     body {
-        margin-inline: 12vw !important;
+        margin-inline: 15vw !important;
+    }
+}
+
+@media (max-width: 992px) {
+    body {
+        margin-inline: 2vw !important;
     }
 }
 

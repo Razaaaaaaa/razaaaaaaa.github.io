@@ -5,7 +5,7 @@ paginate_path: "/blog/page:num/"
 ---
 
 <div class="d-flex justify-content-center">
-<img src="/assets/images/title.png">
+  <img src="/assets/images/title.png" class="img-fluid" alt="Logo">
 </div>
 
 
@@ -29,7 +29,7 @@ paginate_path: "/blog/page:num/"
 </div>
 
 
-<div class="container-xxl">
+<div class="container">
 <div id="astuces" class="d-flex flex-column gap-4 ">
   {% for post in site.posts limit:5 %}
     <a href="{{ post.url | relative_url }}" class="text-decoration-none text-white">

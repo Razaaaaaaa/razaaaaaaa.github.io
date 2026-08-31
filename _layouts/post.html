@@ -1,18 +1,31 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ site.title }}</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
+---
+layout: default
+---
+<article class="post terminal-window">
+  <div class="terminal-titlebar">
+    <div class="terminal-buttons">
+      <span class="term-btn term-close"></span>
+      <span class="term-btn term-min"></span>
+      <span class="term-btn term-max"></span>
+    </div>
+    <div class="terminal-title">
+      raza@raza: ~
+    </div>
+  </div>
 
-<body class="d-flex flex-column ">
-    {% include header.html %}
-    <main>
-        {{ content }}
-    </main>
-    {% include footer.html %}
-</body>
-</html>
+  <div class="terminal-body">
+    <header class="mb-5">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <div class="post-meta d-flex justify-content-between align-items-center">
+        <span class="prompt">raza@raza ~$ ./read.sh "{{ page.title }}"</span>
+        <time datetime="{{ page.date | date_to_xmlschema }}" style="color: var(--text-muted)">
+          {{ page.date | date: "%d %b %Y" }}
+        </time>
+      </div>
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+  </div>
+</article>

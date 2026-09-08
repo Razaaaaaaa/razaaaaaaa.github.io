@@ -88,7 +88,8 @@ L’histoire et la théorie derrière les raccourcis clavier nous ont appris plu
 
   Des solutions tentent de résoudre ce problème notamment : 
   - Le plugin [Key Promoter X](https://github.com/halirutan/IntelliJ-Key-Promoter-X) pour JetBrains
-  - Le plugin [Key Promoter](https://github.com/donebd/vscode-keypromoter) pour VSCode  
+  - Le plugin [Key Promoter](https://github.com/donebd/vscode-keypromoter) pour VSCode 
+  - Le plugin [Key Promoter](https://community.obsidian.md/plugins/key-promoter) pour Obsidian
   etc
 
 ### 2. La souris pour découvrir, le clavier pour automatiser ★★★★
@@ -146,9 +147,9 @@ C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisat
 
 # Bonus 
  
-L’astuce n°1 est particulièrement efficace : elle permet de transformer les raccourcis en réflexe sans y consacrer du temps
+L’astuce n°1 est particulièrement efficace : elle permet de rapidement transformer les raccourcis clavier en réflexe sans y consacrer du temps
 
-Cependant, il existe très peu de projets présentant les mêmes caractéristiques et d’après mes recherches, aucun ne semble s’intégrer directement au système. Le seul projet que j’ai trouvé dans cette direction est [KeyNudge](https://github.com/Johnixr/KeyNudge), que je n’ai toutefois jamais testé.
+Cependant, il existe très peu de projets présentant les mêmes caractéristiques et d’après mes recherches, presque aucun ne semble s’intégrer directement au système. Le seul projet que j’ai trouvé dans cette direction est [KeyNudge](https://github.com/Johnixr/KeyNudge) disponible sur MacOS, que je n’ai toutefois jamais pu testé ( je n'ai pas de Mac).
 
 Utilisant GNOME au quotidien, j’ai commencé à développer un POC afin de vérifier si l’API d’accessibilité ATSPI2 pouvait permettre de réaliser ce type d’application. Les premiers tests sont concluants.
 

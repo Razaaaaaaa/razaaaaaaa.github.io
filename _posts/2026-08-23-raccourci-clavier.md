@@ -144,6 +144,33 @@ C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisat
 
   \* Sous Linux, le raccourci de rétablissement peut varier selon l'application ; `Ctrl + Shift + Z` est également très courant.
 
+# Bonus 
+ 
+L’astuce n°1 est particulièrement efficace : elle permet de transformer les raccourcis en réflexe sans y consacrer du temps
+
+Cependant, il existe très peu de projets présentant les mêmes caractéristiques et d’après mes recherches, aucun ne semble s’intégrer directement au système. Le seul projet que j’ai trouvé dans cette direction est [KeyNudge](https://github.com/Johnixr/KeyNudge), que je n’ai toutefois jamais testé.
+
+Utilisant GNOME au quotidien, j’ai commencé à développer un POC afin de vérifier si l’API d’accessibilité ATSPI2 pouvait permettre de réaliser ce type d’application. Les premiers tests sont concluants.
+
+Selon le moment où vous lirez cet article, le projet aura peut-être évolué et sera peut-être devenu suffisamment abouti pour être utilisé au quotidien. Si vous souhaitez suivre son évolution, vous pouvez retrouver le projet ici : [Shortcut Reminder](https://github.com/Razaaaaaaa/Shortcut-Reminder/)
+
+
+<div class="container">
+  <div class="row justify-content-center g-4 p-3">
+
+    <div class="col-12 col-lg-6">
+      <div class="ratio ratio-16x9">
+        <iframe
+          src="https://www.youtube.com/embed/vn0VPiDfoeE"
+          title="Utilisateur expérimenté"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen>
+        </iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Sources 
 
 - [The Origin Of Cut, Copy, And Paste](https://hackaday.com/2021/01/20/the-origin-of-cut-copy-and-paste/)

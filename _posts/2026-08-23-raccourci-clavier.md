@@ -11,30 +11,19 @@ Tout le monde connaît les principaux raccourcis clavier de son système : Ctrl 
 [Pas le temps pour la théorie ? Passons directement aux astuces](#mes-astuces)                                   
 
 
-S’il fallait retenir un nom dans l’histoire des raccourcis clavier, ce serait sans doute Larry Tesler. Dans les années 1970, alors qu’il travaille chez Xerox PARC, Tesler participe à des recherches sur le Xerox Alto, qui contribuent à poser les bases des interactions modernes avec le texte : sélection, déplacement, insertion et manipulation de contenu. 
+Les raccourcis clavier ne datent pas d’hier. Dans les années 1970, les travaux menés chez Xerox PARC autour du Xerox Alto contribuent à poser les bases de nombreuses interactions avec le texte que nous utilisons encore aujourd’hui.
 
-Quelques années plus tard, chez Apple, Tesler et son équipe reprennent et perfectionnent ces principes pour les interfaces du Lisa, puis du Macintosh. C’est notamment à cette période que sont définies et popularisées les combinaisons ⌘C, ⌘X, ⌘V et ⌘Z que nous connaissons encore aujourd’hui.
+Quelques années plus tard, chez Apple, ces principes sont repris et popularisés avec le Lisa puis le Macintosh. C’est notamment à cette époque que les célèbres ⌘C, ⌘X, ⌘V et ⌘Z s’imposent. Leurs équivalents avec Ctrl deviendront ensuite des conventions incontournables sur Windows.
 
-Le choix des touches n’est d’ailleurs pas entièrement arbitraire. Le C fait naturellement référence à Copy. Le X est associé à Cut, tandis que le V a été choisi en partie pour sa forme, qui évoque l’action de déposer ou d’insérer quelque chose. Il rappelle aussi le caret "^" , symbole utilisé dans les anciens systèmes d’édition. Les touches C, X et V ont également l’avantage d’être regroupées sur le clavier, ce qui facilite leur utilisation avec une seule main.
+Mais au fond, qu’est-ce qu’un raccourci clavier ?
 
-Ces conventions ont ensuite largement dépassé l'univers Apple. Microsoft les a notamment reprises dans ses propres logiciels et systèmes, en remplaçant la touche ⌘ par Ctrl. C’est ainsi que des combinaisons comme Ctrl+C, Ctrl+X et Ctrl+V sont progressivement devenues des conventions presque universelles de l’informatique personnelle.
+Le manuel du premier Macintosh en donne une définition assez simple : ce sont des moyens plus rapides d’effectuer des actions que l’on pourrait normalement réaliser autrement, notamment avec l’interface graphique.
 
-Le manuel du premier Macintosh donne une définition particulièrement intéressante des raccourcis clavier :
+C’est cette définition que nous retiendrons ici. Un raccourci n’est donc pas indispensable pour effectuer une action : il permet surtout de gagner du temps une fois que l’on connaît cette action.
 
-> « In general, Macintosh shortcuts are just quicker ways to do things you can ordinarily do “the long way”. »
+Et c’est là que le problème commence. Les logiciels modernes proposent parfois des centaines de raccourcis. Microsoft Word en recense aujourd’hui plus de 200, tandis que des logiciels comme Blender ou Photoshop en proposent encore davantage.
 
-Autrement dit, un raccourci clavier est avant tout une manière plus rapide d'effectuer une action qui pourrait également être réalisée autrement, généralement à travers l'interface graphique.
-
-C'est cette définition que nous retiendrons dans cet article. Elle permet notamment de distinguer les raccourcis clavier de l'appuie d'une combinaison de touche sur un terminal par exemple car d'un côté elle est nécessaire car l'unique manière de réaliser une action et de l'autre elle est optionnel et permet de gagner du temps
-
-
-Cette distinction peut sembler anecdotique, mais elle permet de mieux comprendre l'intérêt des raccourcis clavier : ils ne remplacent pas l'interface graphique, ils permettent de contourner certaines de ses étapes lorsqu'on connaît déjà l'action que l'on souhaite effectuer.
-
-À l'époque, les logiciels proposaient pourtant beaucoup moins de raccourcis qu'aujourd'hui. Microsoft Word 1.0 pour Macintosh comptait ainsi 44 raccourcis clavier, ce qui en faisait déjà l'un des logiciels Macintosh les plus riches dans ce domaine.
-
-Les logiciels modernes sont d'une tout autre ampleur. Une liste de référence récente de Microsoft recense aujourd'hui +200 raccourcis pour Microsoft Word.
-
-Le véritable problème est plutôt de savoir lesquels apprendre, comment les découvrir et surtout comment faire en sorte qu'ils deviennent des automatismes.
+Il ne s’agit donc pas de tous les apprendre par cœur, mais plutôt de savoir lesquels apprendre, comment les découvrir et comment les transformer en automatismes.
 
 ## Quelques exemples d'utilisation avancée
 
@@ -70,13 +59,6 @@ Pour observer des utilisateurs expérimentés à l’œuvre, rien de mieux que d
 
 
 ## Mes astuces
-<!--
-L’histoire et la théorie derrière les raccourcis clavier nous ont appris plusieurs éléments. :
-- Les touches **sont choisies pour être mémorisables** : C pour Copy, X pour Cut et V pour Paste en sont de bons exemples.
-- Les **conventions facilitent l’apprentissage** : de nombreux logiciels reprennent les mêmes combinaisons de touches pour des actions similaires, ce qui permet aux utilisateurs de retrouver rapidement leurs habitudes d’un logiciel à l’autre.
-- Un raccourci devient réellement efficace lorsqu’il devient automatique : l’objectif n’est plus de réfléchir à la combinaison à utiliser, mais de l’exécuter naturellement.
-- Le clavier peut être plus rapide que la souris pour les actions répétitives : ouvrir un menu, déplacer le curseur ou cliquer sur une commande demande souvent plusieurs mouvements, alors qu’un raccourci permet d’exécuter directement l’action.
--->
 
 ### 1. Plugins qui affiche le raccourci qui aurait pu être fait ★★★★
 
@@ -130,7 +112,7 @@ C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisat
   | **Enregistrer** | `⌘ + S` | `Ctrl + S` | `Ctrl + S` |
   | **Ouvrir** | `⌘ + O` | `Ctrl + O` | `Ctrl + O` |
   | **Nouveau** | `⌘ + N` | `Ctrl + N` | `Ctrl + N` |
-  | **Fermer** | `c + W` | `Ctrl + W` | `Ctrl + W` |
+  | **Fermer** | `⌘ + W` | `Ctrl + W` | `Ctrl + W` |
   | **Quitter l'application** | `⌘ + Q` | `Alt + F4` | `Ctrl + Q` / `Alt + F4` |
   | **Rechercher** | `⌘ + F` | `Ctrl + F` | `Ctrl + F` |
   | **Imprimer** | `⌘ + P` | `Ctrl + P` | `Ctrl + P` |

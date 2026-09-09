@@ -5,7 +5,7 @@ date: 2026-08-18 18:00:00 +0200
 categories: quotidien grand-public
 ---
 
-Tout le monde connaît les principaux raccourcis clavier de son système : Ctrl + C pour copier, Ctrl + V pour coller… Mais ce n’est que la partie émergée de l’iceberg. La plupart des logiciels grand public proposent des centaines de raccourcis : Blender, Adobe Photoshop, Excel, et ne parlons pas des logiciels plus niche. Alors, existe-t-il une méthode efficace pour pleinement mémoriser ses raccourcis clavier ?
+Tout le monde connaît les principaux raccourcis clavier : Ctrl + C pour copier, Ctrl + V pour coller… Mais ce n’est que la partie émergée de l’iceberg. La plupart des logiciels grand public proposent des centaines de raccourcis : Blender, Adobe Photoshop, Excel, et ne parlons pas des logiciels plus niche. Alors, existe-t-il une méthode efficace pour pleinement mémoriser ses raccourcis clavier ?
 
 ## Un peu d'histoire et de théorie
 [Pas le temps pour la théorie ? Passons directement aux astuces](#mes-astuces)                                   

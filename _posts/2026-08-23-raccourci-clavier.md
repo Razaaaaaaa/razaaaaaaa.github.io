@@ -60,7 +60,7 @@ Pour observer des utilisateurs expérimentés à l’œuvre, rien de mieux que d
 
 ## Mes astuces
 
-### 1. Plugins qui affiche le raccourci qui aurait pu être fait ★★★★
+### 1. Plugins qui affichent le raccourci qui aurait pu être fait ★★★★
 
   Les raccourcis clavier sont finalement peu utilisés, non pas parce qu’ils sont inefficaces, mais parce que les interfaces n’incitent pas suffisamment les utilisateurs à les apprendre. On peut prendre l’exemple des navigateurs : presque tout le monde est aujourd’hui un utilisateur expérimenté d’un navigateur, parfois après des années d’utilisation quotidienne. Pourtant, peu de personnes utilisent des raccourcis pour changer d’onglet, même lorsqu’ils permettent de gagner du temps.
 
@@ -84,7 +84,7 @@ Lorsqu’on utilise un logiciel, on n’exploite généralement qu’une partie 
 
 C’est à partir de ce constat qu’il est pertinent de prioriser la mémorisation de certains raccourcis plutôt que d’autres, en fonction de leur fréquence d’utilisation et de leur importance dans les usages quotidiens.
 
-### 4. S'entrainer spécifiquement sur des logiciels grâce a des plateforme (Photoshop, VS Code, Excel etc) ★★
+### 4. S'entrainer spécifiquement sur des logiciels grâce a des plateformes (Photoshop, VS Code, Excel etc) ★★
 
   Un raccourci clavier devient réellement utile lorsqu’il se transforme en automatisme. Pour y parvenir, rien ne vaut la pratique régulière, directement dans les logiciels que vous utilisez au quotidien.
 

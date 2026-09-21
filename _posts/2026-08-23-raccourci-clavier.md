@@ -10,8 +10,7 @@ Tout le monde connaît les principaux raccourcis clavier : Ctrl + C pour copier,
 ## Un peu d'histoire et de théorie
 [Pas le temps pour la théorie ? Passons directement aux astuces](#mes-astuces)                                   
 
-
-Les raccourcis clavier ne datent pas d’hier. Dans les années 1970, les travaux menés chez Xerox PARC autour du Xerox Alto contribuent à poser les bases de nombreuses interactions avec le texte que nous utilisons encore aujourd’hui.
+Les raccourcis clavier ne datent pas d’hier. Dans les années 1970, les travaux menés au Xerox PARC autour du Xerox Alto ont contribué à poser les bases de nombreuses interactions avec le texte que nous utilisons encore aujourd’hui.
 
 Quelques années plus tard, chez Apple, ces principes sont repris et popularisés avec le Lisa puis le Macintosh. C’est notamment à cette époque que les célèbres ⌘C, ⌘X, ⌘V et ⌘Z s’imposent. Leurs équivalents avec Ctrl deviendront ensuite des conventions incontournables sur Windows.
 
